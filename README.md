@@ -1,16 +1,20 @@
-## Hi there 👋
+## boas vindas ao meu perfil 💙
 
-<!--
-**ra7243336/ra7243336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Eduada Bispo 
 
-Here are some ideas to get you started:
+-Estou estudando no [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou desenvolvendo a linguagem JavaScript.
+
+-Uso esse espaço para minha organização e compartilhamento dos meus progetos desenvolvidos
+
+## Você pode entrar em contato comigo 📪
+
+ @ra72433369
+
+
+
+
+
+![](https://media.tenor.com/UTqInz9tDusAAAAM/helluva-boss.gif)
+
